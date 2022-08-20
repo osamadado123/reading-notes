@@ -1,8 +1,8 @@
 # **Reading Notes**
+
 this repo is to keep track of my observations and questions from the reading assignments for this course.
 
 ## **_Code 102 - Intro to Software Development_**
-
 
 ## Code 201 - Foundations of Software Development
 
