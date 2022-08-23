@@ -3,8 +3,11 @@
 ### i am so excited to learn about react and it will improve our skills that we learned in prep course
 
 ## component-based architecture
+
 <ol>
-<li>What is a “component”?
+
+<li>
+What is a “component”?
  A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.</li>
 <li>What are the characteristics of a component? 1- Reusability
 2- Replaceable 
