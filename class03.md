@@ -7,6 +7,7 @@ use map().
 Each list item needs a unique  Key. <br> <br>
 **What is the purpose of a key?** <br>
 help React identify which items have changed, are added, or are removed. <br><br>
+
 ## The Spread Operator
 
 **What is the spread operator?** <br>
@@ -20,10 +21,10 @@ the use of an ellipsis of three dots (…) to expand an iterable object into the
 Copying an array ,Concatenating or combining arrays
 </li>
 <li>
-Using Math functions 
+Using Math functions
 </li>
 <li>
-Using an array as arguments 
+Using an array as arguments
 </li>
 </ol> <br> <br>
 
