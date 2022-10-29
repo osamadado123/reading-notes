@@ -21,4 +21,5 @@ this repo is to keep track of my observations and questions from the reading ass
 [class10](/401-class/class10/class10.md)<br>
 [class11](/401-class/class11/class11.md)<br>
 [class12](/401-class/class12/class12.md)<br>
+[class13](/401-class/class13/class13.md)<br>
 ![img](https://cdnb.artstation.com/p/assets/images/images/044/372/763/large/naughty-boy-16-01.jpg?1639797413)
